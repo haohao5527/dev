@@ -1,4 +1,4 @@
-基础网址: https://example.com/
+基础网址: https://55220000.xyz/
 语言代码: en-us
 主题: hugo-theme-stack
 标题: 示例站点
